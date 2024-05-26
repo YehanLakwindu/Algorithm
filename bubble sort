@@ -1,4 +1,4 @@
-// Java Implementation of Bubble Sort Algorithm
+
 import java.util.Arrays;
 
 class Main {
